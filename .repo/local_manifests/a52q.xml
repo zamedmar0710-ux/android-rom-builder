@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="LineageOS/android_device_samsung_a52q" path="device/samsung/a52q" remote="github" revision="lineage-22.1" />
+  <project name="LineageOS/android_kernel_samsung_sm7125" path="kernel/samsung/sm7125" remote="github" revision="lineage-22.1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_a52q" path="vendor/samsung/a52q" remote="github" revision="lineage-22.1" />
+</manifest>
+
